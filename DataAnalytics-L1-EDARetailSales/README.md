@@ -88,7 +88,7 @@ Running the notebook saves these charts to the `figures/` folder:
 
 1. Clone the repository and open this folder:
    ```bash
-   git clone https://github.com/<aya-mansourr>/OIBSIP.git
+   git clone https://github.com/aya-mansourr/OIBSIP.git
    cd OIBSIP/DataAnalytics-L1-EDARetailSales
    ```
 2. Install the dependencies:
